@@ -1,0 +1,163 @@
+*******************************************************************************
+Ephemeris / WWW_USER Tue Sep 14 22:15:14 2021 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: New Horizons (spacecraft) (-98) {source: NH_merged}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: GEOCENTRIC
+*******************************************************************************
+Start time      : A.D. 2006-Jan-20 00:00:00.0000 UT      
+Stop  time      : A.D. 2024-Dec-31 00:00:00.0000 UT      
+Step-size       : 3 calendar months
+*******************************************************************************
+Target pole/equ : No model available
+Target radii    : (unavailable)                                                
+Center geodetic : 0.00000000,0.00000000,0.0000000 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.00000000,0.00000000,0.0000000 {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : High-precision EOP model        {East-longitude positive}
+Center radii    : 6378.1 x 6378.1 x 6356.8 km     {Equator, meridian, pole}    
+Target primary  : Pluto
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun, EARTH                      {source: DE441}
+Rel. lght bnd GM: 1.3271E+11, 3.9860E+05 km^3/s^2                              
+Atmos refraction: NO (AIRLESS)
+RA format       : DEG
+Time format     : CAL 
+EOP file        : eop.210914.p211208                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2021-SEP-14. PREDICTS-> 2021-DEC-07
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+Table format    : Comma Separated Values (spreadsheet)
+*******************************************************************************
+ Date__(UT)__HR:MN, , , R.A._(ICRF), DEC_(ICRF),
+************************************************
+$$SOE
+date,na1,na2,ra,dec,
+ 2006-Jan-20 00:00, , ,   207.08781,  -10.02864,
+ 2006-Apr-20 00:00, , ,   193.72256,   -3.77013,
+ 2006-Jul-20 00:00, , ,   205.15145,   -9.49166,
+ 2006-Oct-20 00:00, , ,   229.81708,  -17.67692,
+ 2007-Jan-20 00:00, , ,   251.79649,  -21.74582,
+ 2007-Apr-20 00:00, , ,   257.00268,  -21.93754,
+ 2007-Jul-20 00:00, , ,   248.04909,  -20.72956,
+ 2007-Oct-20 00:00, , ,   253.13117,  -21.43166,
+ 2008-Jan-20 00:00, , ,   266.19775,  -22.21095,
+ 2008-Apr-20 00:00, , ,   270.78411,  -21.97906,
+ 2008-Jul-20 00:00, , ,   264.12385,  -21.75236,
+ 2008-Oct-20 00:00, , ,   264.69428,  -21.90912,
+ 2009-Jan-20 00:00, , ,   273.20024,  -21.95972,
+ 2009-Apr-20 00:00, , ,   276.67560,  -21.65219,
+ 2009-Jul-20 00:00, , ,   271.61432,  -21.69305,
+ 2009-Oct-20 00:00, , ,   270.93384,  -21.82749,
+ 2010-Jan-20 00:00, , ,   277.18146,  -21.68511,
+ 2010-Apr-20 00:00, , ,   280.04572,  -21.37164,
+ 2010-Jul-20 00:00, , ,   275.98376,  -21.50057,
+ 2010-Oct-20 00:00, , ,   274.89427,  -21.65295,
+ 2011-Jan-20 00:00, , ,   279.81285,  -21.45168,
+ 2011-Apr-20 00:00, , ,   282.26207,  -21.15001,
+ 2011-Jul-20 00:00, , ,   278.87112,  -21.30947,
+ 2011-Oct-20 00:00, , ,   277.64737,  -21.47550,
+ 2012-Jan-20 00:00, , ,   281.69624,  -21.25920,
+ 2012-Apr-20 00:00, , ,   283.83535,  -20.97310,
+ 2012-Jul-20 00:00, , ,   280.89441,  -21.14500,
+ 2012-Oct-20 00:00, , ,   279.69977,  -21.31482,
+ 2013-Jan-20 00:00, , ,   283.16089,  -21.09580,
+ 2013-Apr-20 00:00, , ,   285.02973,  -20.83045,
+ 2013-Jul-20 00:00, , ,   282.45174,  -21.00177,
+ 2013-Oct-20 00:00, , ,   281.26590,  -21.17382,
+ 2014-Jan-20 00:00, , ,   284.27239,  -20.96260,
+ 2014-Apr-20 00:00, , ,   285.96673,  -20.71268,
+ 2014-Jul-20 00:00, , ,   283.67188,  -20.87939,
+ 2014-Oct-20 00:00, , ,   282.51544,  -21.05078,
+ 2015-Jan-20 00:00, , ,   285.17203,  -20.84950,
+ 2015-Apr-20 00:00, , ,   286.72499,  -20.61362,
+ 2015-Jul-20 00:00, , ,   284.65739,  -20.77394,
+ 2015-Oct-20 00:00, , ,   283.53824,  -20.94265,
+ 2016-Jan-20 00:00, , ,   285.92072,  -20.75194,
+ 2016-Apr-20 00:00, , ,   287.35579,  -20.52837,
+ 2016-Jul-20 00:00, , ,   285.45786,  -20.68520,
+ 2016-Oct-20 00:00, , ,   284.41947,  -20.84830,
+ 2017-Jan-20 00:00, , ,   286.59449,  -20.66435,
+ 2017-Apr-20 00:00, , ,   287.90300,  -20.45535,
+ 2017-Jul-20 00:00, , ,   286.16212,  -20.60519,
+ 2017-Oct-20 00:00, , ,   285.16033,  -20.76460,
+ 2018-Jan-20 00:00, , ,   287.14617,  -20.59030,
+ 2018-Apr-20 00:00, , ,   288.37258,  -20.39133,
+ 2018-Jul-20 00:00, , ,   286.76497,  -20.53435,
+ 2018-Oct-20 00:00, , ,   285.79914,  -20.68984,
+ 2019-Jan-20 00:00, , ,   287.62509,  -20.52455,
+ 2019-Apr-20 00:00, , ,   288.78033,  -20.33465,
+ 2019-Jul-20 00:00, , ,   287.28745,  -20.47112,
+ 2019-Oct-20 00:00, , ,   286.35583,  -20.62260,
+ 2020-Jan-20 00:00, , ,   288.04503,  -20.46574,
+ 2020-Apr-20 00:00, , ,   289.13472,  -20.28374,
+ 2020-Jul-20 00:00, , ,   287.72418,  -20.41685,
+ 2020-Oct-20 00:00, , ,   286.85090,  -20.56197,
+ 2021-Jan-20 00:00, , ,   288.43773,  -20.41014,
+ 2021-Apr-20 00:00, , ,   289.45075,  -20.23841,
+ 2021-Jul-20 00:00, , ,   288.12812,  -20.36566,
+ 2021-Oct-20 00:00, , ,   287.28346,  -20.50702,
+ 2022-Jan-20 00:00, , ,   288.76591,  -20.36255,
+ 2022-Apr-20 00:00, , ,   289.73106,  -20.19763,
+ 2022-Jul-20 00:00, , ,   288.48603,  -20.31941,
+ 2022-Oct-20 00:00, , ,   287.66820,  -20.45710,
+ 2023-Jan-20 00:00, , ,   289.05879,  -20.31946,
+ 2023-Apr-20 00:00, , ,   289.98088,  -20.16081,
+ 2023-Jul-20 00:00, , ,   288.80487,  -20.27747,
+ 2023-Oct-20 00:00, , ,   288.01237,  -20.41163,
+ 2024-Jan-20 00:00, , ,   289.32139,  -20.28031,
+ 2024-Apr-20 00:00, , ,   290.20192,  -20.12720,
+ 2024-Jul-20 00:00, , ,   289.07403,  -20.24147,
+ 2024-Oct-20 00:00, , ,   288.32583,  -20.37018,
+$$EOE
+*******************************************************************************
+Column meaning:
+ 
+TIME
+
+  Times PRIOR to 1962 are UT1, a mean-solar time closely related to the
+prior but now-deprecated GMT. Times AFTER 1962 are in UTC, the current
+civil or "wall-clock" time-scale. UTC is kept within 0.9 seconds of UT1
+using integer leap-seconds for 1972 and later years.
+
+  Conversion from the internal Barycentric Dynamical Time (TDB) of solar
+system dynamics to the non-uniform civil UT time-scale requested for output
+has not been determined for UTC times after the next July or January 1st.
+Therefore, the last known leap-second is used as a constant over future
+intervals.
+
+  Time tags refer to the UT time-scale conversion from TDB on Earth
+regardless of observer location within the solar system, although clock
+rates may differ due to the local gravity field and no analog to "UT"
+may be defined for that location.
+
+  Any 'b' symbol in the 1st-column denotes a B.C. date. First-column blank
+(" ") denotes an A.D. date. Calendar dates prior to 1582-Oct-15 are in the
+Julian calendar system. Later calendar dates are in the Gregorian system.
+
+  NOTE: "n.a." in output means quantity "not available" at the print-time.
+ 
+ 'R.A._(ICRF), DEC_(ICRF),' =
+  Astrometric right ascension and declination of the target center with
+respect to the observing site (coordinate origin) in the reference frame of
+the planetary ephemeris (ICRF). Compensated for down-leg light-time delay
+aberration.
+
+  Units: RA  in decimal degrees,  ddd.fffff{ffff}
+         DEC in decimal degrees,  sdd.fffff{ffff}
+
+
+ Computations by ...
+     Solar System Dynamics Group, Horizons On-Line Ephemeris System
+     4800 Oak Grove Drive, Jet Propulsion Laboratory
+     Pasadena, CA  91109   USA
+     Information  : https://ssd.jpl.nasa.gov/
+     Documentation: https://ssd.jpl.nasa.gov/?horizons_doc
+     Connect      : https://ssd.jpl.nasa.gov/?horizons (browser)
+                    telnet ssd.jpl.nasa.gov 6775       (command-line)
+                    e-mail command interface available
+                    Script and CGI interfaces available
+     Author       : Jon.D.Giorgini@jpl.nasa.gov
+
+*******************************************************************************
